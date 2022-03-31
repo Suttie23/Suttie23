@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/Suttie23/Suttie23/main/header.PNG)
-
 ### Hello there, (General Kenobi), I'm Michael - but everyone calls me Suttie! 👋
 
 I'm a third year BENG(HONS) Software Engineering student and Edinburgh Napier University that is looking to improve their skills in various walks of programming life!
