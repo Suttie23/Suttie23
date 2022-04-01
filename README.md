@@ -4,5 +4,5 @@ I'm a third year BENG(HONS) Software Engineering student and Edinburgh Napier Un
 
 - Currently in year 3 of my degree, working on a Games Engineering project and web development for a podcast.
 - Learning Unity in my spare time using various courses.
-- Building up a habit of doing daily code challenges
-- Learn more about me on my website! (Down for maintenance)
+- Building up a habit of doing daily code challenges.
+- Learn more about me on my website! (Down for maintenance).
