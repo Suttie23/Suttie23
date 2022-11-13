@@ -1,5 +1,4 @@
 <div align="center">
-##
 ### Hello there, I'm Michael - but everyone calls me Suttie!
 ![Profile views](https://komarev.com/ghpvc/?username=Suttie23&color=red&style=flat)
 
