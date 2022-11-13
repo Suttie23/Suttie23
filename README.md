@@ -1,4 +1,5 @@
 <div align="center">
+  
 ### Hello there, I'm Michael - but everyone calls me Suttie!
 ![Profile views](https://komarev.com/ghpvc/?username=Suttie23&color=red&style=flat)
 
@@ -20,7 +21,4 @@ Learn more about me on my website: https://michaelsuttiesoftwaredev.000webhostap
  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/javascript.svg'> 
  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/mysql.svg'> 
  
-
- ##
-  
 </div>
