@@ -23,8 +23,5 @@ Learn more about me on my website: https://michaelsuttiesoftwaredev.000webhostap
  
 
  ##
- ### Statistics
   
-[![Sutties Github Stats](https://github-readme-stats.vercel.app/api?username=Suttie23&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   
 </div>
