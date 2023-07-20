@@ -3,10 +3,10 @@
 ### Hello there, I'm Michael - but everyone calls me Suttie!
 ![Profile views](https://komarev.com/ghpvc/?username=Suttie23&color=red&style=flat)
 
-I'm a fourth year BENG(HONS) Software Engineering student and Edinburgh Napier University that is looking to improve their skills in the various walks of programming life!
+I'm a graduate from Edinburgh Napier University (BEng) that is looking to improve their skills in the various walks of programming life!
 ##
 ### What's Going On?
-Currently in year 4 of my degree, working on an F1 Telemetry Suite for my honours project!
+Scary job hunting!
   
 Learning Unity in my spare time using various courses.
   
